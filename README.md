@@ -1,47 +1,30 @@
-# Hi there 👋
-My name is Lucas Nijssen i am 14 years old and love to code. I'm currently working on my own hosting company named WeHostAll. This is my Coding experience:
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">A passionate developer from The Netherlands</h3>
 
-![image](https://user-images.githubusercontent.com/70206645/179404022-668e76fb-e9d4-4be7-9427-bf57da1ae56d.png)
-<h3 align="left">Languages and Tools I Worked With:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasnijssen&label=Profile%20views&color=0e75b6&style=flat" alt="lucasnijssen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasnijssen" alt="lucasnijssen" /></a> </p>
+
+- 🔭 I’m currently working on [WorkBench](https://lucasnijssen.nl/workbench.html)
+
+- 🌱 I’m currently learning **SwiftUI**
+
+- 👨‍💻 All of my projects are available at [https://lucasnijssen.nl](https://lucasnijssen.nl)
+
+- 💬 Ask me about **html, css, php, js**
+
+- 📫 How to reach me **Contact@lucasnijssen.nl**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/blender/blender-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/chrome/chrome-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/discordjs/discordjs-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/ssh/ssh-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/unrealengine/unrealengine-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-plain.svg" width="40"> 
-<img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" width="40"> 
+<a href="https://twitter.com/lucasnijssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasnijssen" height="30" width="40" /></a>
+<a href="https://instagram.com/lucasnijssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasnijssen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lucasnijssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucasnijssen" height="30" width="40" /></a>
 </p>
- 
- To contact me send an email to: contact@lucasnijssen.nl
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Lucasnijssen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lucasnijssen" /></a></p><br><br>
+
