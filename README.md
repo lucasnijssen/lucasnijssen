@@ -9,8 +9,6 @@
 
 ### 🚀 About Me
 
-- 💼 Founder of **Lume**: Revolutionizing customer data management with innovative SaaS solutions.  
-- 🛠️ Currently developing the **MVP of Lume** to empower businesses with secure and efficient client information management tools.  
 - 🌱 Continuously learning and implementing **AI-driven solutions** to enhance user experience and functionality.  
 - 👨‍💻 Explore my projects and portfolio at [lucasnijssen.nl](https://lucasnijssen.nl).  
 - 💬 Open to discussions about **startups, SaaS development, and technological innovations**.  
